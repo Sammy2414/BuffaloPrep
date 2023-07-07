@@ -1,0 +1,10 @@
+Timestamp,School,Size of Family,Mother's Education,Father's Education,Reason to choose Buffalo Prep,Home to school travel time,Weekly study time,Number of past class failures,Do you receive extra educational support,Do you receive family educational support,Do you participate in extra-curricular activities,Internet access at home,Free time after school,Current Health Status,Number of Absences,Math Competency,Reading Competency,Writing Competency
+7/6/2023 16:43:50,Public,Less than or equal to 3,Higher Education,Secondary Education,Close to home,15 to 30 minutes,2 to 5 hours,1,No,No,No,Yes,Normal,Good,23,Novice,Intermediate,Novice
+7/7/2023 9:20:19,Public,Greater than 3,None,None,Reputation,More than an hour,more than 10 hours,4+,No,No,No,No,Very High,Very Good,10,Master,Master,Distinguished
+7/7/2023 9:20:47,Private,Less than or equal to 3,None,Primary Education (4th grade),Close to home,30 to 1 hour,1 to 2 hours,1,Yes,No,Yes,Yes,Normal,Very Good,0,Master,Proficient,Master
+7/7/2023 9:21:34,Private,Greater than 3,None,None,Reputation,1 to 15 minutes,1 to 2 hours,0,No,No,No,Yes,Very High,Good,2,Master,Proficient,Intermediate
+7/7/2023 9:21:36,Public,Greater than 3,None,None,Close to home,More than an hour,2 to 5 hours,0,No,Yes,Yes,Yes,Low,Good,23,Master,Proficient,Master
+7/7/2023 9:21:53,Private,Greater than 3,Higher Education,Higher Education,Course preference,More than an hour,5 to 10 hours,0,No,No,Yes,Yes,Low,Good,3,Proficient,Proficient,Distinguished
+7/7/2023 9:25:24,Public,Less than or equal to 3,Secondary Education,5th to 9th Grade,Close to home,30 to 1 hour,2 to 5 hours,4+,No,Yes,No,Yes,Low,Average,7,Intermediate,Novice,Proficient
+7/7/2023 9:26:08,Public,Less than or equal to 3,Higher Education,Higher Education,Reputation,1 to 15 minutes,1 to 2 hours,0,Yes,Yes,Yes,Yes,Very Low,Average,0,Proficient,Proficient,Proficient
+7/7/2023 9:27:17,Private,Less than or equal to 3,5th to 9th Grade,Primary Education (4th grade),Reputation,1 to 15 minutes,1 to 2 hours,4+,No,No,No,No,Very High,Very Good,30,Novice,Novice,Intermediate
